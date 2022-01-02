@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BDA UAI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Base de datos Aplicada</string>
+    <string name="nav_header_subtitle">martin.ballester@alumnos.uai.edu.ar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Proyecto final BD aplicadas</string>
+
+    <string name="menu_venta_mensual">Venta mensual</string>
+    <string name="menu_productos">Productos comprados</string>
+    <string name="menu_recomendacion">Producto recomendado</string>
+    <string name="AppBDA">AndroidSpinnerExample</string>
+</resources>
