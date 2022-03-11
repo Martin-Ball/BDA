@@ -40,9 +40,6 @@ El usuario de la app puede ver en el layout de la app información o descargar u
 
   
   <img src="https://scontent.fros9-1.fna.fbcdn.net/v/t39.30808-6/270234164_10209803679244590_2222211874414139029_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=xKlCFlSwkzcAX8JeZAN&_nc_oc=AQmwat26DtyoEAOG3XWAGa9tTu8aqj1MzEW4Gt3fi_oUv6rC3x00JgEwT7Aa_pgrIas&_nc_ht=scontent.fros9-1.fna&oh=00_AT8M0x0redf2h7Jw-i_3jmPfrt9WI4h3JPbD1LRDojeIPA&oe=622F7AF6" data-canonical-src="https://scontent.fros9-1.fna.fbcdn.net/v/t39.30808-6/270234164_10209803679244590_2222211874414139029_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=xKlCFlSwkzcAX8JeZAN&_nc_oc=AQmwat26DtyoEAOG3XWAGa9tTu8aqj1MzEW4Gt3fi_oUv6rC3x00JgEwT7Aa_pgrIas&_nc_ht=scontent.fros9-1.fna&oh=00_AT8M0x0redf2h7Jw-i_3jmPfrt9WI4h3JPbD1LRDojeIPA&oe=622F7AF6" width="200" height="400" />
-
-  
-  <img src="https://scontent.fros9-1.fna.fbcdn.net/v/t39.30808-6/269967659_10209803699965108_3001825493663848744_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=IIhzvapcmDgAX90Y_xO&_nc_ht=scontent.fros9-1.fna&oh=00_AT9u0-IZ8gPUSZutKOpTvmjk4Xgp-trcbbb-hDfL6T16tA&oe=622F98E7" data-canonical-src="https://scontent.fros9-1.fna.fbcdn.net/v/t39.30808-6/269967659_10209803699965108_3001825493663848744_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=IIhzvapcmDgAX90Y_xO&_nc_ht=scontent.fros9-1.fna&oh=00_AT9u0-IZ8gPUSZutKOpTvmjk4Xgp-trcbbb-hDfL6T16tA&oe=622F98E7" width="200" height="400" />
 </p>
 
 ![BDAIMG1](https://github.com/Martin-Ball/BDA/blob/main/BDA.gif)
