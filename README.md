@@ -31,15 +31,15 @@ El usuario de la app puede ver en el layout de la app información o descargar u
 > Capturas de pantalla
 
 <p float="left">
-<img src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270409202_10209803678524572_256468901394625968_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=730e14&_nc_ohc=lzyU4l0HmRkAX8wk6uP&_nc_ht=scontent.fros2-1.fna&oh=00_AT8dc6BLY9mGF0IhhkwVi-YtZm2QOY3b_KbxK2BVF5ydcw&oe=627D8B64" data-canonical-src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270409202_10209803678524572_256468901394625968_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=730e14&_nc_ohc=lzyU4l0HmRkAX8wk6uP&_nc_ht=scontent.fros2-1.fna&oh=00_AT8dc6BLY9mGF0IhhkwVi-YtZm2QOY3b_KbxK2BVF5ydcw&oe=627D8B64" width="200" height="400" />
+<img src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(1).jpeg" data-canonical-src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(1).jpeg" width="200" height="400" />
 
   
-  <img src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270239162_10209803678644575_1186621157542228606_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=730e14&_nc_ohc=N3uLc2zmNbEAX86J_FI&_nc_ht=scontent.fros2-1.fna&oh=00_AT8Dk_MZo5qNbFvzX9_e-Cqe9tamEciFV-ZJsilZ_GGtpg&oe=627E0D3D" data-canonical-src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270239162_10209803678644575_1186621157542228606_n.jpg?_nc_cat=100&ccb=1-6&_nc_sid=730e14&_nc_ohc=N3uLc2zmNbEAX86J_FI&_nc_ht=scontent.fros2-1.fna&oh=00_AT8Dk_MZo5qNbFvzX9_e-Cqe9tamEciFV-ZJsilZ_GGtpg&oe=627E0D3D" width="200" height="400" />
+  <img src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(2).jpeg" data-canonical-src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(2).jpeg" width="200" height="400" />
   
-  <img src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270188336_10209803678484571_3593874652975958633_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=730e14&_nc_ohc=X9HlVkNAEhMAX-2H4fX&_nc_ht=scontent.fros2-1.fna&oh=00_AT_qZF1AKEiRAAi9bYJMDtAE-Ij2Px0NATWra8vPQwHfUg&oe=627DB8BD" data-canonical-src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270188336_10209803678484571_3593874652975958633_n.jpg?_nc_cat=104&ccb=1-6&_nc_sid=730e14&_nc_ohc=X9HlVkNAEhMAX-2H4fX&_nc_ht=scontent.fros2-1.fna&oh=00_AT_qZF1AKEiRAAi9bYJMDtAE-Ij2Px0NATWra8vPQwHfUg&oe=627DB8BD" width="200" height="400" />
+  <img src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(3).jpeg" data-canonical-src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40%20(3).jpeg" width="200" height="400" />
 
   
-  <img src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270234164_10209803679244590_2222211874414139029_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=730e14&_nc_ohc=wyrgpw-lN_0AX9utbxs&_nc_oc=AQkbY_71XwhJw7j-9Ct6C7wLoPLW93kEd2Ub4wsmDdzcIOuMxcKnnWW_MxGeM87sUVo&_nc_ht=scontent.fros2-1.fna&oh=00_AT9EjVBv0fafuBYJOpK5r7vlVdP_OeTuhPsxFxXcsfEO1A&oe=627E94F6" data-canonical-src="https://scontent.fros2-1.fna.fbcdn.net/v/t39.30808-6/270234164_10209803679244590_2222211874414139029_n.jpg?_nc_cat=108&ccb=1-6&_nc_sid=730e14&_nc_ohc=wyrgpw-lN_0AX9utbxs&_nc_oc=AQkbY_71XwhJw7j-9Ct6C7wLoPLW93kEd2Ub4wsmDdzcIOuMxcKnnWW_MxGeM87sUVo&_nc_ht=scontent.fros2-1.fna&oh=00_AT9EjVBv0fafuBYJOpK5r7vlVdP_OeTuhPsxFxXcsfEO1A&oe=627E94F6" width="200" height="400" />
+  <img src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40.jpeg" data-canonical-src="https://github.com/Martin-Ball/BDA/blob/main/WhatsApp%20Image%202022-01-02%20at%2021.04.40.jpeg" width="200" height="400" />
   
 </p>
 
